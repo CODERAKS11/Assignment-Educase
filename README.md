@@ -53,6 +53,8 @@ npm start
 
 The API runs by default on `http://localhost:3000`.
 
+You can also test the live deployment on Vercel at: `https://assignment-educase-dwdql8cod-akss-projects-d0c134d1.vercel.app`
+
 ## Environment Variables
 
 ```env
@@ -131,3 +133,6 @@ Import [`postman/School-Management-API.postman_collection.json`](postman/School-
 ## Deployment
 
 This repository includes a `render.yaml` file for Render deployment. Add the required database environment variables in Render and connect it to a MySQL instance.
+
+The API is currently live and deployed via **Vercel**:
+🔗 `https://assignment-educase-dwdql8cod-akss-projects-d0c134d1.vercel.app`
